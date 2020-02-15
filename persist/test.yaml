@@ -1,0 +1,8 @@
+test: 
+  player1:
+    - something
+    - something_else
+  player2:
+    - something_again
+  rules:
+    - idk

@@ -1,0 +1,7 @@
+%{
+  "fast_yaml": {:hex, :fast_yaml, "1.0.22", "99615f6bea033803ca8865b9ce4864ad451c746c17734255972b4a9cd77981fa", [:rebar3], [{:p1_utils, "1.0.17", [hex: :p1_utils, repo: "hexpm", optional: false]}], "hexpm"},
+  "p1_utils": {:hex, :p1_utils, "1.0.17", "563449d130b7d37426dcad38815944356b2716713a70e16abb82e3410edc2c72", [:rebar3], [], "hexpm"},
+  "toml": {:hex, :toml, "0.6.1", "e1c3c91c1fc1ed87e7315a5a88e4bd1eeddf3e61dca2b708724a6a2d1a013844", [:mix], [], "hexpm"},
+  "yamerl": {:hex, :yamerl, "0.7.0", "e51dba652dce74c20a88294130b48051ebbbb0be7d76f22de064f0f3ccf0aaf5", [:rebar3], [], "hexpm"},
+  "yaml_elixir": {:hex, :yaml_elixir, "2.4.0", "2f444abc3c994c902851fde56b6a9cb82895c291c05a0490a289035c2e62ae71", [:mix], [{:yamerl, "~> 0.7", [hex: :yamerl, repo: "hexpm", optional: false]}], "hexpm"},
+}
